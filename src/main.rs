@@ -1,8 +1,7 @@
-use crate::day2::solution;
+use crate::day4::solution;
 
-mod day1;
-mod day2;
+mod day4;
 
 fn main() {
-    solution("./src/day1/input.txt".to_owned());
+    solution("./src/day5/input.txt".to_owned());
 }
